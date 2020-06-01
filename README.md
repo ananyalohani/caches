@@ -1,10 +1,4 @@
-# CSE112: Computer Organisation 
-## End Semester Assignment: Cache
-
-__Name:__ Ananya Lohani
-__Roll Number:__ 2019018
-__Section:__ A
-__Group:__ 9
+# Cache
 
 #### Overview 
 * Programming Language: Python 3.7
